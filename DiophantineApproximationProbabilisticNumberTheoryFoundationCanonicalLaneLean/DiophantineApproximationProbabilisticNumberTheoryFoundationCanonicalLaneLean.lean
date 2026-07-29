@@ -1,0 +1,7 @@
+import canonicalLaneMathlib.AdmissibleClass
+
+namespace HautevilleHouse
+namespace DiophantineApproximationProbabilisticNumberTheoryFoundationCanonicalLaneLean
+
+end DiophantineApproximationProbabilisticNumberTheoryFoundationCanonicalLaneLean
+end HautevilleHouse

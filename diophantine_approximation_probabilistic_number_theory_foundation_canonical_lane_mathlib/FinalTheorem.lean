@@ -1,0 +1,9 @@
+import diophantine_approximation_probabilistic_number_theory_foundation_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace diophantine_approximation_probabilistic_number_theory_foundation_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end diophantine_approximation_probabilistic_number_theory_foundation_canonical_lane_mathlib
+end HautevilleHouse
